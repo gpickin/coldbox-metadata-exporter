@@ -1,0 +1,17 @@
+{
+  "name": "ColdBox Metadata Exporter",
+  "slug": "coldbox-metadata-exporter",
+  "type": "modules",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpickin/coldbox-metadata-exporter"
+  },
+  "dependencies": {
+    "JSONPrettyPrint": "^1.4.1"
+  },
+  "installPaths": {
+    "JSONPrettyPrint": "modules/JSONPrettyPrint/"
+  },
+  "ignore": [".git", ".gitignore", ".DS_Store", "tests"],
+  "version": "1.0.0"
+}
