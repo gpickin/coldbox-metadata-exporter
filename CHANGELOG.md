@@ -1,3 +1,13 @@
+# v1.0.2
+## 09 Oct 2023 — 01:52:16 UTC
+
+### other
+
++ __\*:__ Merge pull request #1 from gpickin/development ([4f8f9a2](https://github.com/gpickin/coldbox-metadata-exporter/commit/4f8f9a298de58af4802b74038c0535c1a15e3f3d))
++ __\*:__ Fix async and add tests
+ ([0658345](https://github.com/gpickin/coldbox-metadata-exporter/commit/065834541ed522874a43c8cbc79a4158d0afac9e))
+
+
 # v1.0.1
 ## 07 Oct 2023 — 19:22:55 UTC
 
