@@ -10,7 +10,7 @@ component{
 
 	}
 
-	async function afterAspectsLoad(){
+	function afterAspectsLoad() async{
 		var coldBoxMappings = controller
 			.getModuleService()
 			.getModuleRegistry()
