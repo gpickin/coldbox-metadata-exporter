@@ -1,3 +1,17 @@
+# v1.0.3
+## 13 Oct 2023 — 23:08:16 UTC
+
+### other
+
++ __\*:__ Merge pull request #2 from gpickin/development ([ca26f01](https://github.com/gpickin/coldbox-metadata-exporter/commit/ca26f01d6daffebe7f27f85445850d18cfa584e9))
++ __\*:__ Merge branch 'development' of https://github.com/gpickin/coldbox-metadata-exporter into development
+ ([a06a404](https://github.com/gpickin/coldbox-metadata-exporter/commit/a06a4046fef7e1b564173c63880217fa9034d10f))
++ __\*:__ Fix ColdBox Dev Version
+ ([5c7373e](https://github.com/gpickin/coldbox-metadata-exporter/commit/5c7373ecb3e9dd1109e70fafae450c7ba4b23e7a))
++ __\*:__ Fix the path
+ ([e2eaf04](https://github.com/gpickin/coldbox-metadata-exporter/commit/e2eaf04309dca21ad9b1499e295a3d44829a69a9))
+
+
 # v1.0.2
 ## 09 Oct 2023 — 01:52:16 UTC
 
