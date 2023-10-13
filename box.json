@@ -17,7 +17,7 @@
   "ignore": [".git", ".gitignore", ".DS_Store", "tests", "server.json"],
   "version": "1.0.0",
   "devDependencies": {
-    "coldbox": "^7.2.0",
+    "coldbox": "^7.1.0",
     "testbox": "^5.3.1+6"
   }
 }
