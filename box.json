@@ -15,7 +15,7 @@
     "coldbox": "coldbox/"
   },
   "ignore": [".git", ".gitignore", ".DS_Store", "tests", "server.json"],
-  "version": "1.0.0",
+  "version": "@buildNumber@",
   "devDependencies": {
     "coldbox": "^7.1.0",
     "testbox": "^5.3.1+6"
